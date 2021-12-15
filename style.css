@@ -1,0 +1,38 @@
+#container {
+    background-color: lightgray;
+    width: 800px;
+    height: 850px;
+    padding: 0 15px;
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+}
+
+.row {
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+#top {
+    background-color: cadetblue;
+}
+
+#center {
+    background-color: plum;
+    justify-content: space-evenly;
+}
+
+#bottom {
+    background-color: white;
+}
+
+p {
+    font-size: 17px;
+}
